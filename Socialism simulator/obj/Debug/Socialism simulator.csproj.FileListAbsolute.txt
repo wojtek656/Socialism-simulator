@@ -1,0 +1,13 @@
+c:\users\wojciech\documents\visual studio 2013\Projects\Socialism simulator\Socialism simulator\bin\Debug\Socialism simulator.exe.config
+c:\users\wojciech\documents\visual studio 2013\Projects\Socialism simulator\Socialism simulator\bin\Debug\Socialism simulator.exe
+c:\users\wojciech\documents\visual studio 2013\Projects\Socialism simulator\Socialism simulator\bin\Debug\Socialism simulator.pdb
+c:\users\wojciech\documents\visual studio 2013\Projects\Socialism simulator\Socialism simulator\obj\Debug\Socialism simulator.csprojResolveAssemblyReference.cache
+c:\users\wojciech\documents\visual studio 2013\Projects\Socialism simulator\Socialism simulator\obj\Debug\Socialism_simulator.Form1.resources
+c:\users\wojciech\documents\visual studio 2013\Projects\Socialism simulator\Socialism simulator\obj\Debug\Socialism_simulator.Properties.Resources.resources
+c:\users\wojciech\documents\visual studio 2013\Projects\Socialism simulator\Socialism simulator\obj\Debug\Socialism simulator.csproj.GenerateResource.Cache
+c:\users\wojciech\documents\visual studio 2013\Projects\Socialism simulator\Socialism simulator\obj\Debug\Socialism simulator.exe
+c:\users\wojciech\documents\visual studio 2013\Projects\Socialism simulator\Socialism simulator\obj\Debug\Socialism simulator.pdb
+c:\users\wojciech\documents\visual studio 2013\Projects\Socialism simulator\Socialism simulator\bin\Debug\Socialism simulator.exe.manifest
+c:\users\wojciech\documents\visual studio 2013\Projects\Socialism simulator\Socialism simulator\bin\Debug\Socialism simulator.application
+c:\users\wojciech\documents\visual studio 2013\Projects\Socialism simulator\Socialism simulator\obj\Debug\Socialism simulator.exe.manifest
+c:\users\wojciech\documents\visual studio 2013\Projects\Socialism simulator\Socialism simulator\obj\Debug\Socialism simulator.application
